@@ -14,7 +14,7 @@
 
 **6. Struct**
 
-**7. Archives**
+**7. Files**
 - Basic operations
 - Archive manipulation 
 
