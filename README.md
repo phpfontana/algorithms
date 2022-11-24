@@ -16,7 +16,7 @@
 
 **7. Files**
 - Basic operations
-- Archive manipulation 
+- File manipulation 
 
 **8. Pointers & Dynamic Memory Alocation**
 
