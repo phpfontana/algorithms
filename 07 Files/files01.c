@@ -2,10 +2,10 @@
 
 01 Basic File Operations
 
-Operating system contain services which we can use to read
-and write information on disk.
+The operating system contains services which we can use to read
+and write information on the disk.
 
-Those servvices are:
+The main ones are:
 - Open: the os will find the file and prepare it on the buffer.
 
 - Read: the os will read the buffer.
