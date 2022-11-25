@@ -15,8 +15,6 @@
 **6. Struct**
 
 **7. Files**
-- Basic operations
-- File manipulation 
 
 **8. Pointers & Dynamic Memory Alocation**
 
