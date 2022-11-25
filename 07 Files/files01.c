@@ -69,5 +69,6 @@ int main(void)
     }
     printf("process finished!\n");
     fclose(read_txt);
-
+    
+    return 0;
 }
