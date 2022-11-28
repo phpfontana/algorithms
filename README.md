@@ -10,12 +10,12 @@
 
 **4. Indexed Variables**
 
-**5. Functions (Modularization)**
+**5. Modularization**
 
 **6. Struct**
 
 **7. Files**
 
-**8. Pointers & Dynamic Memory Alocation**
+**8. Dynamic Memory Allocation**
 
 
