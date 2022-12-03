@@ -2,20 +2,10 @@
 
 ## Table of Contents
 
-**1. Primitives, Variables, Constants and Operators**
+**1. Arrays, Strings, Structs
 
-**2. Decision Structures**
+**2. Modularization, Pointers, Files
 
-**3. Repetition Structures**
-
-**4. Indexed Variables**
-
-**5. Modularization**
-
-**6. Struct**
-
-**7. Files**
-
-**8. Dynamic Memory Allocation**
+**3. Dynamic Memory Allocation
 
 
