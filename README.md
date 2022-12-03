@@ -1,11 +1,13 @@
-# Algorithms & Programming Logic
+
 
 ## Table of Contents
 
-**1. Arrays, Strings, Structs**
+### Algorithms & Programming Logic
 
-**2. Modularization, Pointers, Files**
+- [Arrays, Strings, Structs](https://github.com/phpfontana/algorithms/tree/main/%20arrays-strings-structs)
 
-**3. Dynamic Memory Allocation**
+- [Modularization, Pointers, Files](https://github.com/phpfontana/algorithms/tree/main/files-pointers-functions)
+
+- [Dynamic Memory Allocation](https://github.com/phpfontana/algorithms/tree/main/dynamic-memory-allocation)
 
 
