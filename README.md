@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-**1. Arrays, Strings, Structs
+**1. Arrays, Strings, Structs**
 
-**2. Modularization, Pointers, Files
+**2. Modularization, Pointers, Files**
 
-**3. Dynamic Memory Allocation
+**3. Dynamic Memory Allocation**
 
 
