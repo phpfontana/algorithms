@@ -37,4 +37,3 @@ When you are done using the allocated memory, you should free it using the free 
 
 It is important to always free any memory you allocate with `malloc` when you are done using it. This will prevent memory leaks and ensure that your program uses memory efficiently.
 
-In summary, to use dynamic memory allocation in C, you can use the `malloc` and `free` functions. `malloc` allocates a block of memory of the specified size, and returns a pointer to the beginning of the block. You can use this pointer to access and modify the allocated memory. When you are done using the allocated memory, you should free it using the `free` function. This will prevent memory leaks and ensure that your program uses memory efficiently.
