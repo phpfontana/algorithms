@@ -1,7 +1,7 @@
 # Modularization
 Modularization is a software design technique that involves breaking a program into smaller, independent modules or components. This can make a program easier to understand, maintain, and modify.
 
-In C, modularization is typically achieved using functions. A function is a block of code that performs a specific task and can be called from other parts of the program. By dividing a program into smaller, independent functions, you can make the program more modular and easier to understand.
+In C, modularization is typically achieved using functions. A function is a block of code that performs a specific task and can be called from other parts of the program.
 
 To create a function in C, you use the `function` keyword, followed by the function name, the parameter list enclosed in parentheses, and the function body enclosed in braces. For example:
 
@@ -20,8 +20,6 @@ int main() {
   return 0;
 }
 ```
-
-In this code, we have defined the print_message function and then called it from the main function. When the program is run, this will print the message "Hello, world!" to the screen.
 
 Functions can also take arguments and return values. For example:
 ```C
