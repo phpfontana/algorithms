@@ -5,9 +5,9 @@ Welcome to the GitHub repository for algorithms and programming logic. In this r
 
 ## Table of Contents
 
-- [Arrays, strings, and structs](https://github.com/phpfontana/algorithms/tree/main/files-pointers-functions)
-- [Modularization, pointers, and files](https://github.com/phpfontana/algorithms/tree/main/arrays-strings-structs)
-- [Dynamic memory allocation](https://github.com/phpfontana/algorithms/tree/main/dynamic-memory-allocation)
+1. [Arrays, strings, and structs](https://github.com/phpfontana/algorithms/tree/main/%20arrays-strings-structs)
+2. [Modularization, pointers, and files](https://github.com/phpfontana/algorithms/tree/main/files-pointers-functions)
+3. [Dynamic memory allocation](https://github.com/phpfontana/algorithms/tree/main/dynamic-memory-allocation)
 
 
 
